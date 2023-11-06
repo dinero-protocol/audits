@@ -20,6 +20,7 @@
     - [Keyko Hidden Hand v1](hidden-hand/v1/keyko.pdf)
   - [v2](hidden-hand/v2)
     - [SPEARBIT Hidden Hand v2](hidden-hand/v2/spearbit.pdf)
+    - [SPEARBIT Hidden Hand v2 OFF-CHAIN architecture](hidden-hand/v2/spearbit-offchain.pdf)
 - [Pirex](pirex)
   - [BTRFLY](pirex/btrfly)
     - [Kebabsec pxBTRFLY audit](pirex/btrfly/kebabsec.pdf)
