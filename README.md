@@ -21,6 +21,8 @@
   - [v2](hidden-hand/v2)
     - [SPEARBIT Hidden Hand v2](hidden-hand/v2/spearbit.pdf)
     - [SPEARBIT Hidden Hand v2 OFF-CHAIN architecture](hidden-hand/v2/spearbit-offchain.pdf)
+  - [Marrionette](hidden-hand/marionette)
+    - [Verilog Hidden Hand Marionette](hidden-hand/marionette/verilog.pdf)
 - [Pirex](pirex)
   - [BTRFLY](pirex/btrfly)
     - [Kebabsec pxBTRFLY audit](pirex/btrfly/kebabsec.pdf)
