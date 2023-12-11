@@ -11,6 +11,7 @@
 - [Dinero-Pirex-Eth](dinero-pirex-eth)
   - [Pirex-Eth](dinero-pirex-eth/pirex-eth)
     - [Spearbit Pirex-Eth](dinero-pirex-eth/pirex-eth/spearbit.pdf)
+    - [Pashov Pirex-Eth](dinero-pirex-eth/pirex-eth/pashov.pdf)
 - [BTRFLY](btrfly)
   - [Omniscia BTRFLY v2](btrfly/omniscia.pdf)
 - [Hidden Hand](hidden-hand)
