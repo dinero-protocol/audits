@@ -1,13 +1,15 @@
 <div align="center">
-<img  width="250" alt="Redacted Logo" src="https://app.redacted.finance/_next/image?url=%2Fassets%2Fimages%2Flogo%2FRedacted-LogoMark-Light-TransBG-72dpi.png&w=3840&q=75" />
 <p>
-  <a href="https://twitter.com/redactedcartel" target="_blank">
-    <img alt="Twitter: Redacted Cartel" src="https://img.shields.io/twitter/follow/redactedcartel.svg?style=social" />
+  <a href="https://x.com/dinero_xyz" target="_blank">
+    <img alt="Twitter: Dinero" width="250" src="https://pbs.twimg.com/profile_images/1813945047093592064/vNgvmosz_400x400.png" />
   </a>
 </p>
 </div>
 
 # 🔎 Audits (Table of Contents)
+
+- [DINERO](dinero)
+  - [Nethermind DINERO migration](dinero/nethermind-dinero-migration.pdf)
 - [Dinero-Pirex-Eth](dinero-pirex-eth)
   - [Pirex-Eth](dinero-pirex-eth/pirex-eth)
     - [Spearbit Pirex-Eth](dinero-pirex-eth/pirex-eth/spearbit.pdf)
